@@ -28,11 +28,11 @@ nav {
 
 footer {
     color: white;
-    margin-top: 830px;
     margin-left: 250px;
     width: 1400px;
     height: 70px;
-    position: absolute;
+    position: relative;
+    transform: translateY(-100%);
 }
 
 li {
@@ -108,13 +108,18 @@ main {
 
 section {
     color: white;
-    height: 1600px;
+    height: auto;
     width: 1200px;
     margin-top: 150px;
     margin-left: 350px;
     animation:fadeInLeft 1s;
+    padding-bottom: 150px;
 }
 
 #redd {
+    color: red;
+}
+
+a {
     color: red;
 }
