@@ -2,6 +2,10 @@ body {
     background-color: black;
 }
 
+header:hover {
+    color: gray;
+}
+
 header {
     color: white;
     width: 200px;
@@ -34,6 +38,10 @@ footer {
 li {
     list-style-type: none;
     float: left;
+}
+
+#aa:hover{
+    color: gray;
 }
 
 #aa {
