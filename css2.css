@@ -94,3 +94,13 @@ main {
     color: white;
     font-size: 20px;
 }
+
+#cc:hover{
+    width: 350px;
+    height: 350px;
+}
+
+#bb {
+    text-decoration: none;
+    margin-left: 0px;
+}
