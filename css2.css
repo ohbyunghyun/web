@@ -30,3 +30,23 @@ footer {
     height: 70px;
     position: absolute;
 }
+
+li {
+    list-style-type: none;
+    float: left;
+}
+
+#aa {
+    color: white;
+    list-style-type: none;
+    text-decoration-line: none;
+    padding: 7px;
+    font-size: 25px;
+}
+
+main { 
+    font-size: 25px;
+    color: white;
+    margin-top: 100px;
+    margin-left: 120px;
+}
