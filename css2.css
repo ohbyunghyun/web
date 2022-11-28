@@ -81,3 +81,16 @@ main {
         transform: translateZ(0);
     }
 }
+
+#head {
+    color: white;
+    font-size: 299px;
+    margin-top: 20px;
+    margin-left: 320px;
+    position: absolute;
+}
+
+#nae{
+    color: white;
+    font-size: 20px;
+}
